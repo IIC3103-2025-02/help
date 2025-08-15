@@ -1,5 +1,5 @@
 ---
-name: Template Pregunta
+name: Preguntas IIC3103
 about: Crea una pregunta siendo lo más detallado posible
 title: ''
 labels: ''
@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **Tema**
-[ ] Tarea 1
-[ ] Tarea 2
-[ ] Tarea 3
-[ ] Proyecto
-[ ] Actividades
-[ ] Clases
-[ ] Otros
+- [ ] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
+- [ ] Proyecto
+- [ ] Actividades
+- [ ] Clases
+- [ ] Otros
 
 **Describe la pregunta**
 Una descripción clara y detallada de tu pregunta o problema
